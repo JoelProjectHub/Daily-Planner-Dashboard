@@ -27,11 +27,8 @@ An interactive Power BI dashboard that tracks **Productivity %** and **Goal %** 
 
 ## 📂 Dashboard Highlights
 - **Top Row: Facility Cards**  
-  Productivity %, Goal %, and **Prev Day Open/Closed** badges by facility.
 - **Middle Row: Productivity % Trends**  
-  Month-over-month lines with visual targets.
 - **Bottom Row: Goal % Trends**  
-  Goal attainment over time with the same date context.
 - **Global Controls**  
   Date slider (and optional facility slicer) that all visuals respect.
 
