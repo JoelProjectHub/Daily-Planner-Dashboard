@@ -1,6 +1,6 @@
 # 📊 Planner Dashboard (Power BI)
 
-An interactive Power BI dashboard that tracks **Productivity %** and **Goal %** for each facility (Toyota, Mazda, VW, GM) and flags whether the **Previous Day** was **Open/Closed**. Built to give operations a fast, visual pulse on performance with clear trends and targets.
+An interactive Power BI dashboard that tracks **Productivity %** and **Goal %** for each facility and flags whether the **Previous Day** was **Open/Closed**. Built to give operations a fast, visual pulse on performance with clear trends and targets.
 
 Version 1 - 8/11/2025
 <img width="1160" height="652" alt="image" src="https://github.com/user-attachments/assets/6624e762-1ddc-4b03-8ff4-151393da0922" />
